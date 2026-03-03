@@ -1,7 +1,7 @@
 # Custom_segformers
 This work starts with SegFormerB2 and tries to increase its edge detection and overall accuracy.
 
-The final notebook is: F:\Python\Segformers\Custom_segformers\9_channel_AGU_CA_Pseudo_final.ipynb
+The final notebook is: Custom_segformers\9_channel_AGU_CA_Pseudo_final.ipynb
 Rest of the notebooks are different itirations during development.
 
 Major adaptations are as follows:
